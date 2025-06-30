@@ -53,4 +53,8 @@ namespace Employee
 
 the above code is written by Tester T1.
 
+<<<<<<< HEAD
 The code is agaaing modified by the tester T1.
+=======
+    the next code is added by tester T2.
+>>>>>>> 7d85eb8edd1a22b335612b0fa741f5d5225d26db
